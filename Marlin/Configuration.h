@@ -132,7 +132,7 @@
 // The following define selects which electronics board you have.
 // Please choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-#define BOARD_BTT_SKR_V1_3
+#define BOARD_BTT_SKR_V1_3            2013  // BigTreeTech SKR v1.3 (Power outputs: Hotend0, Hotend1, Fan, Bed)
 #endif
 
 // Optional custom name for your RepStrap or other custom machine
