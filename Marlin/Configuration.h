@@ -540,7 +540,7 @@
 //#define DEFAULT_bedKd 1675.16
 
 // FIND YOUR OWN: "M303 E-1 C8 S90" to run autotune on the bed at 90 degreesC for 8 cycles.
-#endif // PIDTEMPBED
+
 
 // @section extruder
 
@@ -2313,4 +2313,4 @@
 // Only power servos during movement, otherwise leave off to prevent jitter
 //#define DEACTIVATE_SERVOS_AFTER_MOVE
 
-#endif // CONFIGURATION_H
+
