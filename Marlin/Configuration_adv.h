@@ -1,4 +1,4 @@
-/**jeff-hevo2020june
+/**JEFF_WISE_HEVO_10-3-2020
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
